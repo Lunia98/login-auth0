@@ -1,0 +1,16 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home_image {
+  background-image: url("../../img/home_breakfast.jpg");
+  background-size: cover;
+  background-position: top center;
+}
+
+.home_title {
+  color: white;
+  font-size: 55px;
+  filter: drop-shadow(2px 4px 6px black);
+}
